@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daisycoral.mermaidreef",
+      "sha256_cert_fingerprints": [
+        "50:7D:20:A6:4C:6A:57:70:E0:48:CB:AD:AD:57:B6:43:BE:52:CA:E1:AE:5E:5A:7E:D1:DB:7A:3E:67:20:FA:B3"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daisycoral.singaporecity",
+      "sha256_cert_fingerprints": [
+        "50:7D:20:A6:4C:6A:57:70:E0:48:CB:AD:AD:57:B6:43:BE:52:CA:E1:AE:5E:5A:7E:D1:DB:7A:3E:67:20:FA:B3"
+      ]
+    }
+  }
+]
